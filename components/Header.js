@@ -22,6 +22,7 @@ function Header() {
             </div>
             {/* Lazy Loading */}
             <Image 
+                alt="Hulu logo"
                 className="object-contain" 
                 src="https://links.papareact.com/ua6"
                 width={200}
